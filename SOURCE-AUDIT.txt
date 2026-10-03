@@ -1,0 +1,201 @@
+TEAM ANALYSIS EDITION — REVISION 3
+49 slides / 13 floors / 2 site plans / 102 analytical leader observations
+
+NEW SOURCE MAPPING
+T6: Circulation and Bubble diagrams tata.pdf
+  pp.1–3 = ground / first / second-floor circulation.
+  pp.4–6 = ground / first / second-floor bubble diagrams.
+  Main hallway = red dashed; secondary = thicker blue dashed;
+  room entry / dead end = thin blue dotted with terminal markers.
+  PDF path geometry is extracted directly. Zero-opacity shapes are not painted.
+  Bubbles use original centre positions, radii, colors and relationship paths;
+  clear Speda labels replace original text, with original sheets linked.
+T7: tata.pdf
+  p.2 = entrances / parking. pp.5–7 = the team's floor analyses.
+  Broad room names continue to use original floor-plan legends.
+M8: mrv circulation.pdf
+  p.1 = first-floor patient / visitor and staff / service traces.
+  p.2 = departmental access details. p.3 = second-floor and OT flows.
+  Blank pp.4–5 are omitted.
+M2: MVR_Cancer_Centre_Yasr_Restructured_Final_v4.pptx.pdf (23-page upload)
+  p.23 = ground-floor circulation, with source entrance arrows.
+  pp.2–4 = site and blocks. Odd pages 5–21 = floor zoning.
+C1: Comparative Analysis of Cancer Hospitals(1).png
+  Included as the supplied conceptual synthesis board, with topic zoom.
+
+INTERPRETATION RULES
+The team's MVR legend combines staff and service. Both filters retain the
+same geometry, and the interface explicitly identifies the shared trace.
+On the ground circulation plate, Emergency isolates the original entry arrow;
+no unverified emergency-only internal corridor is created. The separate
+emergency slide reads triage, examination, staff response and observation.
+Site approach paths follow visible roads and the team's entrance positions.
+BMT approach paths follow visible passages to the controlled threshold and
+support rooms. These are analytical role relationships, not certified protocols.
+New leader notes explain spatial organization and design implications without
+claiming measured distances, construction details or operating performance.
+Bubble areas are schematic. No floor-area values are inferred from circle size.
+The new MVR bubble uses solid same-level and dashed cross-floor relationships.
+
+ADDITIONAL CONFLICTS
+M2 p.10 repeats the ground-floor table beneath a first-floor heading. It is not
+used to relocate emergency, pharmacy or ground OPD functions onto First Floor.
+M2 generic repeated legend entries do not prove a function occurs on every level.
+The comparison board's strong circulation separation is treated as a conceptual
+observation about destinations / thresholds. Actual route overlaps remain
+visible in the plan analysis.
+Speda Bold is included from the supplied font file. The cover author names
+remain exactly as requested. Slide 2's connector arrowhead is removed.
+
+DEPARTMENT INDEX FROM THE ORIGINAL DRAWING AUDIT
+------------------------------------------------
+SOURCE AUDIT — REVISED FIGURES
+
+Numbers identify source-labelled departments. Inspection windows are crops, not zone boundaries.
+Original source colors remain unchanged and may differ between floors. No automatic recoloring is used.
+
+TATA-GROUND
+T2 · A3; T5 · p.5
+1. Lobby / Counselling / OPD Clinics: Original legend 1. The long front clinical wing contains the lobby, counselling and outpatient clinics.
+2. Imaging / Radiation Therapy: Original legend 2. The upper clinical block combines imaging and radiation therapy; the source does not reliably name every room.
+3. Academic / Administration: Original legend 3. The separate left wing contains academic and administrative accommodation.
+4. Service Support: Original legend 4. The upper-left group is service support, not outpatient accommodation.
+The four department names and color groups follow the source legend. Room-level names in the additional analysis are not all legible in the original drawing.
+
+TATA-FIRST
+T2 · A4; T5 · p.6
+1. Day Hospital: Original legend 1. Day treatment and recovery bays occupy the long lower clinical wing.
+2. Inpatient Unit: Original legend 2. Inpatient accommodation occupies the upper clinical block.
+3. Academic / Administration: Original legend 3. The left wing continues the academic / administration zone.
+4. Clinical Laboratories: Original legend 4. The upper-left laboratory block connects with the inpatient block through a bridge.
+
+TATA-SECOND
+T2 · A5; T5 · p.7
+1. Invasive Services / Surgical Care: Original legend 1. The lower clinical block contains invasive and surgical services.
+2. ICU / High Dependency / Recovery: Original legend 2. The upper clinical block contains intensive care, high-dependency care and recovery.
+3. Academic / Administration: Original legend 3. The left wing contains academic and administrative functions.
+The drawing establishes department-level relationships. Individual operating-room and ICU door labels are too small for dependable transcription.
+
+TATA-BASEMENT
+T1 · p.16 (floor designation); T5 · p.8 (duplicate image)
+1. Laundry & Soiled Linen: Readable labels: laundry, washing / drying / ironing, soiled linen sorting and clean-linen storage.
+2. Central Sterile Supply (CSSD): Readable labels: cleaning / disinfection, packing, sterile area and trolley-cleaning support.
+3. Lifts, Stairs & Changing: Public / patient lift lobby, service lift lobby, stairs and male / female lockers are labelled.
+4. Waiting & Reception: The radiotherapy waiting and reception / consultation rooms are at the right side of the drawing.
+5. Therapy Planning / Mould: Readable labels include therapy planning, mould, dosimetry, physics, exams and consultation.
+6. Tomotherapy · Radixact · LINAC: The three lower shielded rooms are individually named in the source: Tomotherapy, Radixact and LINAC.
+This is an evacuation drawing. Red room fills are NOT a departmental zoning code. Numbers identify readable functions. The added analysis mis-titles this duplicate image as Second Floor; the original study identifies it as Basement.
+
+MVR-LOWER
+M1 · sheet 02
+1. LINAC 1 & LINAC 2: Two shielded LINAC rooms with maze access and separate console rooms are labelled.
+2. Brachytherapy / CT Simulator: Brachytherapy is above CT Simulator on the right edge of the two LINAC rooms.
+3. Preparation / Recovery & Mould: The lower branch includes preparation / recovery holding, mould preparation, mould store and treatment support.
+4. Reception / Consultation: Reception, executive waiting, consultation, counselling and staff offices line the curved passage.
+5. Canteen & Kitchen: Separate canteen building: dining, staff dining, kitchen, stores, utility and lift / stair.
+6. Service / Technical Rooms: The detached technical block contains labelled service rooms; a bridge connects it to the main block.
+The sheet repeats a general legend that includes departments not present here. The labels above follow actual room names on this floor, not that repeated legend.
+
+MVR-GROUND
+M1 · sheets 03–04
+1. Outpatient Department (OPD): Consultation, pre-assessment and procedure rooms flank the OPD corridor; pediatric OP is included.
+2. Emergency: Separate emergency entry, triage / resuscitation, exam, minor procedure and observation / day care.
+3. Nuclear Medicine: The lower curved block labels nuclear-medicine scanning, preparation and support rooms.
+4. Radiology: Adjacent imaging department in the curved block; room labels include CT, MRI and X-ray.
+5. Medical Records / Pharmacy: Medical records and pharmacy occupy the support group left of the principal clinical cores.
+6. Public Dining / Arrival: The source distinguishes public dining and the eastern arrival / waiting connection.
+
+MVR-FIRST
+M1 · sheet 05
+1. Hematology / Laboratory: The upper row labels hematology, clinical pathology / cytology, bacteriology, genetics and specimen processing.
+2. Central Sterile Supply (CSSD): Sterile store and packing occupy the upper part; receipt, wash and decontamination lie along the lower edge.
+3. Blood Bank: Donor / apheresis bays are at the lower edge. Serology, TTI lab, wash / sterile support and soiled hold are behind them.
+4. Endoscopy / ERCP: ERCP sits at the top; endoscopy, scope wash/store and preparation / recovery connect below.
+5. Staff Lounges / Workstations: Resident / junior-doctor workstations, nurses’ lounge and doctors’ lounge lie left of CSSD.
+6. Academic / Administration: Offices, meeting / teaching accommodation and the auditorium occupy the lower curved branch.
+CSSD, Blood Bank and Endoscopy are separate named departments. They are not merged into one generic diagnostic zone.
+
+MVR-SECOND
+M1 · sheet 06
+1. Eight Operating Theatres: OT 1–8 surround the sterile corridor. The outer corridor is explicitly labelled Dirty Corridor.
+2. Cath Lab / Sterile Support: Cath lab, sterile store, flash sterilizer, OT pharmacy, control and changing are grouped above the theatres.
+3. Pre-op / Post-op / Induction: The source labels 4 pre-op beds, 9 post-op beds and a 4-bed induction bay.
+4. Surgical ICU (SICU): SICU, isolation and a nurse station directly adjoin the recovery area and patient lift lobby.
+5. Infusion / Day Care: Infusion cubicles, private infusion wards, drug mixing, pharmacy and support occupy the right wing.
+6. Pediatric Infusion: A separate pediatric waiting and infusion branch lies beside the principal lift group.
+
+MVR-THIRD
+M1 · sheet 07
+1. Intensive Care Unit (ICU): ICU rooms and an isolation room lie at the left end around a central nurse station.
+2. Pediatric ICU (PICU): PICU is the lower critical-care bay next to the service core.
+3. HDU / Dialysis: High-dependency / dialysis occupies the upper-left-middle bay.
+4. Standard Inpatient Rooms: The source reports 20 standard rooms along the right-hand corridor.
+5. Suites: Two suites lie at the far right end of the inpatient wing.
+6. Patient / Visitor & Service Cores: The drawing separately labels patient, visitor, service and staff lift lobbies, with stairs.
+
+MVR-FOURTH
+M1 · sheet 08
+1. Molecular / Microbiology Labs: The upper-left uncolored rooms are explicitly labelled Molecular Lab, Lab and Microbiology.
+2. Nuclear Medicine / Isolation: The lower-left enclosed group contains dose administration, isolation and nuclear-medicine accommodation.
+3. Biomedical Store / Workshop: The store and workshop are adjacent to nuclear medicine, within the outlined lower-left group.
+4. Standard Rooms / Suite: The study records 27 standard rooms and one suite; repeated rooms line the right-hand corridor.
+5. Nursing / Staff Support: Nursing director / meeting rooms, staff facilities and clinical support occur between the laboratory and ward zones.
+6. Patient / Visitor & Service Cores: Mid-building lift and stair groups connect to the principal ward corridor.
+The sheet includes a Cardiac ICU heading, but the readable plan labels at this location identify laboratories and nuclear medicine. Those room labels take priority.
+
+MVR-FIFTH
+M1 · sheet 09
+1. Standard Inpatient Rooms: The source reports 41 standard rooms distributed along both sides of the main corridor.
+2. Suite Room: The single suite is at the far right end of the ward plate.
+3. Nursing Stations: Three nurse stations are shown at intervals along the ward corridor.
+4. Patient / Visitor Lift Core: Patient and visitor lobbies sit beside the principal lift group and main stair.
+5. Service / Staff Lift Core: The other central core contains service / staff lifts with pantry, staff lounge and support.
+6. Fire Stairs: End stairs are drawn at both ends of the linear ward block.
+
+MVR-SIXTH
+M1 · sheet 10
+1. Five-bed Wards: Eight five-bed wards: four male and four female, grouped in the left wing.
+2. Standard Rooms: Fourteen standard rooms are shown in two groups: six above the corridor and eight below.
+3. Double Rooms: Eleven double rooms occupy the right-hand accommodation zone.
+4. Nursing Stations: Nurse stations are distributed along the corridor, next to utilities and work rooms.
+5. Patient / Visitor Lift Core: The principal central core separates patient and visitor lift lobbies.
+6. Service / Staff Core: The service core includes service / staff lifts, soiled hold and support spaces.
+
+MVR-SEVENTH
+M1 · sheet 10
+1. Bone Marrow Transplant (BMT): The drawing shows 11 BMT rooms: seven above and four below the corridor, each with an airlock.
+2. BMT Clean / Soiled Support: Clean utility, medicines, sterile store and soiled hold are labelled beside the BMT rooms.
+3. Controlled BMT Threshold: Airlock, changing and examination spaces identify the transition into the BMT area.
+4. Deluxe Rooms: Ten deluxe rooms are labelled: eight in the upper row and two elsewhere in the ward wing.
+5. Standard Rooms / Suites: Eight standard rooms and two suites occupy the right-hand accommodation wing.
+6. Patient / Visitor Lift Core: The patient / visitor core connects the ordinary accommodation with the controlled-care approach.
+BMT = bone marrow transplant. The source drawing has 11 rooms; a different current operating count must not replace the drawing count.
+
+MVR-SITE
+M1 · sheet 01; M2 · pp.2–4
+1. Main / OPD Arrival: Arrival identified in the supplied site-entry analysis; it continues toward the outpatient approach.
+2. Emergency Arrival: Emergency arrival on the rear edge of Block B.
+3. Canteen / MEP Service: Service entrance associated with the canteen / MEP block.
+4. Service Block Entry: Entry to the detached service block beside the pond.
+5. Staff Parking: Parking is identified; the drawings do not locate a separate staff-only external door.
+6. Block B · Clinical Spine: The long principal clinical building is labelled Block B in the site drawing.
+
+TATA-SITE
+T5 · p.2; entrance arrow positions transcribed
+1. Main Entrance: Arrow endpoint transferred from the added site analysis. The main entrance addresses the front arrival court.
+2. Second Entrance · Radiation Therapy: The added source identifies this secondary arrival as radiation-therapy access.
+3. Emergency Entrance: Arrow endpoint transferred from the added analysis to the eastern side of the treatment block.
+4. Visitor Parking: Visitor parking occupies the curved perimeter bays beside the principal approach.
+5. Staff Parking: The added analysis identifies the rear parking group as staff parking.
+Entrances and parking follow the added analysis (T5 p.2). Road overlays follow visible driveways and show approach relationships; they do not establish traffic regulations.
+
+
+ATELIER EDITION — 3 OCTOBER 2026
+
+Slide 4: institution replaced with hospital.
+Slide 20: upper image is the supplied CAN1338_N2_letter.jpg, preserved byte-for-byte and displayed uncropped. The source environmental section remains below.
+Typeface system: original Nimbus Sans and P052 restored; Speda font and font-face removed.
+Color keys: source-specific floor colors, source site feature colors, explicit basement evacuation drawing colors, and source route/detail marks. Repeated hues are not treated as globally unique department codes. The MVR site distinguishes original base-drawing approaches from the animated analytical route controls.
+Slide 37: colored dashed cyan, lime and orange samples identify sterile, clean and dirty routes; pale cyan identifies the source airlock/transfer highlighting.
+No source plan coordinates, department inspection boxes, team vector paths, bubble positions, or 102 analytical callout anchor coordinates were altered. Plan and source-sheet pixel dimensions remain unchanged.
+All 49 slides and interactive controls were checked in the offline browser.

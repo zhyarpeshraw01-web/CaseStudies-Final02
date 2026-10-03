@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <meta name="description" content="Architecture of Care — a 49-slide comparative architectural study of Tata Medical Center and MVR Cancer Centre, with source plans, zoning and circulation analysis.">
+ <meta name="theme-color" content="#132d30">
+ <title>Architecture of Care · Cancer Hospital Case Studies</title>
+ <link rel="icon" href="favicon.svg" type="image/svg+xml">
+ <link rel="stylesheet" href="presentation.css">
+ <link rel="stylesheet" href="atelier.css">
+</head>
+<body>
+ <main id="viewport"><div id="stage"></div></main>
+ <nav id="controls" aria-label="Presentation controls">
+  <button data-action="prev" title="Previous (←)">←</button><span id="counter"></span><button data-action="next" title="Next (→)">→</button><i></i>
+  <button data-action="overview">Slides</button><button data-action="gallery">Images</button><button data-action="notes">Notes</button><button data-action="sources">Sources</button>
+  <button data-action="motion" id="motion">Motion on</button><button data-action="fullscreen">Full screen</button>
+ </nav>
+ <div id="progress"></div>
+ <dialog id="modal" aria-labelledby="modalTitle"><div id="modalbar"><h2 id="modalTitle"></h2><button id="closeModal" aria-label="Close dialog">Close ×</button></div><div id="modalbody"></div></dialog>
+ <noscript><p style="padding:40px;color:white">Enable JavaScript to play this presentation. All assets are included locally.</p></noscript>
+ <script src="presentation.js"></script>
+ <script src="atelier.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+ARCHITECTURE OF CARE — ATELIER EDITION
+
+49 slides | 13 floor plans | 2 site plans
+102 analytical callouts | 82 named source inspection locations
+
+LATEST CORRECTIONS
+Slide 4: hospital wording.
+Slide 20: supplied CAN1338_N2_letter.jpg as the upper image, uncropped; lower source section retained.
+All source plans: visible color keys, including enlarged source inspectors.
+Slide 37: visible cyan / lime / orange route samples and pale-cyan airlock key.
+Typography: earlier Nimbus Sans and P052 restored; Speda removed.
+Motion: title reveals, photo masks, chapter transitions, animated source route emphasis, progressive observations, dynamic legend samples and focus mode.
+
+VALIDATION
+All 49 slides rendered without detected layout overflow.
+No JavaScript errors, failed assets or external network requests during offline presentation checks.
+All 15 source plan color keys are defined.
+Source geometry, vector routes, bubble positions, source inspection boxes and callout coordinates match the approved presentation.
+Plan and source-sheet pixel dimensions retained.
+Uploaded slide 20 image preserved byte-for-byte.
+Core navigation, search, filtering, timed observations, route cycles, figure zoom, source inspection, laser, focus mode and slide links passed.
+
+PLAY
+Extract the complete archive. Open architecture-of-care/index.html.
+START-HERE.html provides a launch page. Press ? inside the presentation for controls.
